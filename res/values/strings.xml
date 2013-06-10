@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Extra Settings</string>
+    <string name="title_activity_main">Extra Settings</string>
+    <string name="Theme_stock">Stock Settings</string>
+    <string name="Theme_1">Modded Settings</string>
+    <string name="menus_settings">Made By SpaceCaker</string>
+
+</resources>
